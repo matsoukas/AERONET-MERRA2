@@ -1,4 +1,4 @@
-# AERONET_SSA
+# AERONET-MERRA2
 Comparison of Single Scattering Albedo (SSA) and Aerosol Absorption Optical Depth (AAOD) between all AERONET stations and the MERRA-2 reanalysis.
 
 AERONET product: "All points” Almucantar V3 Inversion Data, Level 2.0
